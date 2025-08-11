@@ -35,6 +35,8 @@ This script automates the process of turning a Debian-based Linux system into a 
 
 > 💡 Using a lightweight desktop like LXDE ensures faster performance and lower resource usage, ideal for kiosk deployments.
 
+![Desktop Envirnment Details](./screenshots/debian-lxde-ssh.png)
+
 ---
 
 ## 🛠️ Usage
